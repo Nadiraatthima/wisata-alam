@@ -1,0 +1,40 @@
+.navbar {
+    background-color: #51b4f9;
+}
+ 
+.navbar-brand {
+    img {
+        width: 5%;
+    }
+    
+}
+
+
+header {
+    padding: 180px 0 165px;
+    margin-top: -60px;
+    background-size: cover;
+    background-image: url(Assets/Pulau\ Komodo.jpg);
+}
+
+.section-popular {
+    min-height: 540px;
+    background-color: #eeeeee;
+    margin-top: -50px;
+    margin-bottom: -230px;
+
+    .container {
+        .row {
+            .col {
+                margin-top: 3%;
+                            }
+        }
+    }
+}
+
+
+.btn-tervel-detail {
+    color: burlywood;
+    background-color: burlywood;
+}
+
